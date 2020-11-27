@@ -1,4 +1,10 @@
-### Hi there 👋
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jakejarrett&theme=synthwave&layout=compact)
+
+
+Currently working on the following projects in my spare time;
+- [soundnode-v2](https://github.com/jakejarrett/soundnode-v2)
+- [informative](https://github.com/jakejarrett/informative)
+- [domed.app](https://domed.app)
 
 <!--
 **jakejarrett/jakejarrett** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
