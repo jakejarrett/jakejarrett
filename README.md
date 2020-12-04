@@ -3,7 +3,6 @@
 
 Currently working on the following projects in my spare time;
 - [soundnode-v2](https://github.com/jakejarrett/soundnode-v2)
-- [informative](https://github.com/jakejarrett/informative)
 - [domed.app](https://domed.app)
 
 <!--
