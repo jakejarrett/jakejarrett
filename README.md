@@ -1,21 +1,12 @@
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jakejarrett&theme=synthwave&layout=compact)
+# Hi there 👋
 
+- 🏢 I'm currently working at **Atlassian (Jira)** as a software engineer
+- 🔭 Currently working on
+  - ML Mode for Counter strike analysis [domed.app](https://domed.app)
+  - [Micro architecture for React (Similar to astro islands)](https://github.com/neoreact)
+    - Currently being explored in [soundnode-v2](https://github.com/jakejarrett/soundnode-v2) & A stealth startup.
 
-Currently working on the following projects in my spare time;
-- [soundnode-v2](https://github.com/jakejarrett/soundnode-v2)
-- [domed.app](https://domed.app)
-
-<!--
-**jakejarrett/jakejarrett** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Latest posts
+<div align="center">
+  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=jakerjarrett" alt="Layout with last medium posts"  />
+</div>
