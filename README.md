@@ -1,6 +1,5 @@
 # Hi there 👋
 
-- 🏢 I'm currently working at **Atlassian (Jira)** as a software engineer
 - 🔭 Currently working on
   - ML Mode for Counter strike analysis [domed.app](https://domed.app)
   - [Micro architecture for React (Similar to astro islands)](https://github.com/neoreact)
